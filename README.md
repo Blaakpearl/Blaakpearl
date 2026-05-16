@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blaakpearl
-- 👀 I’m interested in red team, blue team, purple team, OSINT and Digital Forensics.
+- 👀 I’m interested in red teams, blue teams, purple teams, OSINT and Digital Forensics teams.  I also like Threat Hunting and Researching
 - 🌱 I’m currently learning the basics all over again.
-- 💞️ I’m looking to collaborate on projects that fits each of the teams.
+- 💞️ I’m looking to collaborate on projects that combine cybersecurity and AI.
 - 📫 How to reach me is via email blaakpearl@yahoo.com
 - 👀 I’m also interested in Artificial Intelligence and Machine Learning.  Hello Python, here I come.
 <!---
